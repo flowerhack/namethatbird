@@ -1,0 +1,66 @@
+species, difficulty, region
+common loon, E
+horned grebe, M
+eared grebe, M
+pied-billed grebe, M
+northern gannet, M, US-E
+greater shearwater, M, US-E
+wilson's storm-petrel, M, US-E
+black guillemot, M, US-E
+double-created cormorant, M, US-E
+anhinga, M, US-E
+brown pelican, E, US-E
+american white pelican, E, US-E
+tundra swan, M, US-E
+snow goose, M, US-E
+greater white-fronted goose, M, US-E
+canada choose, E, US-E
+brant, M, US-E
+mallard, E, US-E
+american black duck, M
+northern pintail, M
+gadwall, M
+american wigeon, M
+green-winged teal, M
+blue-winged teal, M
+northern shoveler, M
+wood duck, E
+canvasback, M
+redhead, M
+lesser scaup, M
+ring-necked duck, M
+ruddy duck, M
+bufflehead, M
+common goldeneye, M
+hoded merganser, M
+red-breasted merganser, M
+common merganser, M
+oldsquaw, M
+surf scoter, M
+white-wingd scoter, M
+common eider, M
+turkey vulture, E
+black vulture, M
+bald eagle, E
+osprey, M
+mississippi kite, M
+american swallow-tailed kite, M
+northern harrier, M
+red-tailed hawk, E
+broad-winged hawk, M
+red-shouldered hawk, M
+swainson's hawk, M
+sharp-shinned hawk, M
+american kestrel, M
+merlin, M
+peregrine falcon, M
+wood stork, M
+roseate spoonbill, M
+white ibis, M
+glossy ibis, M
+limpkin, M
+least bittern, M
+american bittern, M
+green heron, M
+black-crowned night-heron, M
+yellow-crowned night-heron, M
