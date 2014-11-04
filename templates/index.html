@@ -5,6 +5,24 @@
 </head>
 <body>
     <h1>Name That Bird!</h1>
+    <div id="birdphoto">
     <img src="{{ mystery_bird }}"/>
+    <p>{{ location }}<br/>{{ date }}</p>
+    <form name="input" method="post">
+    	Name? <input type="text" name="guessedname">
+    	<input type="submit" value="Submit">
+    </form>
+
+    <h3>Change Difficulty</h3>
+    <p>Current difficulty is {{ diff }}.</p>
+    <p>Easiest is 1.  Hardest is 5.</p>
+    <form name="change_difficulty" method="post">
+    	<input type="radio" name="diff" value="1">1</input>
+    	<input type="radio" name="diff" value="2">2</input>
+    	<input type="radio" name="diff" value="3">3</input>
+    	<input type="radio" name="diff" value="4">4</input>
+    	<input type="radio" name="diff" value="5">5</input>
+    	<input type="submit" value="Change">
+    </form>
 </body>
 </html>
